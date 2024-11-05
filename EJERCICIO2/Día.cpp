@@ -6,12 +6,8 @@ using namespace std;
 #include "Día.h"
 void Día(){
     int dia;
-
-
     cout << "Ingrese un número del 1 al 7 para obtener el día de la semana correspondiente: ";
     cin >> dia;
-
-
     switch(dia) {
         case 1:
             cout << "Lunes" << endl;
@@ -35,7 +31,6 @@ void Día(){
             cout << "Domingo" << endl;
         break;
         default:
-            // Muestra un mensaje de error si el número no está entre 1 y 7
                 cout << "Número inválido. Por favor, ingrese un número entre 1 y 7." << endl;
     }
 }

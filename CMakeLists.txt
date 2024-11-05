@@ -12,4 +12,6 @@ add_executable(Villalobos_VictoriaExamenCpp
         EJERCICIO2/Día.h
         EJERCICIO2/Día.cpp
         EJERCICIO3/Calificaciones.h
-        EJERCICIO3/Calificaciones.cpp)
+        EJERCICIO3/Calificaciones.cpp
+        EJERCICIO4/Precio.h
+        EJERCICIO4/Precio.cpp)

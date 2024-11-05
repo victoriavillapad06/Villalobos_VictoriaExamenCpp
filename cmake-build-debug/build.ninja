@@ -77,6 +77,13 @@ build CMakeFiles/Villalobos_VictoriaExamenCpp.dir/EJERCICIO3/Calificaciones.cpp.
   OBJECT_DIR = CMakeFiles\Villalobos_VictoriaExamenCpp.dir
   OBJECT_FILE_DIR = CMakeFiles\Villalobos_VictoriaExamenCpp.dir\EJERCICIO3
 
+build CMakeFiles/Villalobos_VictoriaExamenCpp.dir/EJERCICIO4/Precio.cpp.obj: CXX_COMPILER__Villalobos_VictoriaExamenCpp_unscanned_Debug C$:/Users/victo/Documents/GitHub/Villalobos_VictoriaExamenCpp/EJERCICIO4/Precio.cpp || cmake_object_order_depends_target_Villalobos_VictoriaExamenCpp
+  DEP_FILE = CMakeFiles\Villalobos_VictoriaExamenCpp.dir\EJERCICIO4\Precio.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/victo/Documents/GitHub/Villalobos_VictoriaExamenCpp/.
+  OBJECT_DIR = CMakeFiles\Villalobos_VictoriaExamenCpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\Villalobos_VictoriaExamenCpp.dir\EJERCICIO4
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Villalobos_VictoriaExamenCpp
@@ -85,7 +92,7 @@ build CMakeFiles/Villalobos_VictoriaExamenCpp.dir/EJERCICIO3/Calificaciones.cpp.
 #############################################
 # Link the executable Villalobos_VictoriaExamenCpp.exe
 
-build Villalobos_VictoriaExamenCpp.exe: CXX_EXECUTABLE_LINKER__Villalobos_VictoriaExamenCpp_Debug CMakeFiles/Villalobos_VictoriaExamenCpp.dir/EJERCICIO1/número.cpp.obj CMakeFiles/Villalobos_VictoriaExamenCpp.dir/main.cpp.obj CMakeFiles/Villalobos_VictoriaExamenCpp.dir/EJERCICIO2/Día.cpp.obj CMakeFiles/Villalobos_VictoriaExamenCpp.dir/EJERCICIO3/Calificaciones.cpp.obj
+build Villalobos_VictoriaExamenCpp.exe: CXX_EXECUTABLE_LINKER__Villalobos_VictoriaExamenCpp_Debug CMakeFiles/Villalobos_VictoriaExamenCpp.dir/EJERCICIO1/número.cpp.obj CMakeFiles/Villalobos_VictoriaExamenCpp.dir/main.cpp.obj CMakeFiles/Villalobos_VictoriaExamenCpp.dir/EJERCICIO2/Día.cpp.obj CMakeFiles/Villalobos_VictoriaExamenCpp.dir/EJERCICIO3/Calificaciones.cpp.obj CMakeFiles/Villalobos_VictoriaExamenCpp.dir/EJERCICIO4/Precio.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Villalobos_VictoriaExamenCpp.dir
