@@ -22,5 +22,6 @@ void Precio() {
             precio_menor = precio3;
         }
         int total_a_pagar = precio1 + precio2 + precio3 - precio_menor;
+        while  (precio < 0) cout << "Precio invalido"; 
         cout << "El total a pagar bajo la promoción '3 por 2' es: €" << total_a_pagar << endl;
 }
